@@ -5,5 +5,10 @@
 !dist/
 !dist/**
 
-# Keep this gitignore itself
+# Keep GitHub Actions workflow
+!.github/
+!.github/workflows/
+!.github/workflows/**
+
+# Keep this file
 !.gitignore
