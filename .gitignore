@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# Keep dist
+!dist/
+!dist/**
+
+# Keep this gitignore itself
+!.gitignore
