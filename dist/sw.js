@@ -1,7 +1,7 @@
-const CACHE_NAME = "poker-gym-8ead893faf82";
+const CACHE_NAME = "poker-gym-409bc1a03bd9";
 const PRECACHE = [
-  "./assets/index-SyZArW_d.css",
-  "./assets/index-YFu3ZCAr.js",
+  "./assets/index-lVnLoiEG.js",
+  "./assets/index-ngxp6eFN.css",
   "./icons/apple-touch-icon.png",
   "./icons/icon-192.png",
   "./icons/icon-512-maskable.png",
